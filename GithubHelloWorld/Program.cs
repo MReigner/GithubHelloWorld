@@ -5,8 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-
-            Console.WriteLine("Die neue Zeile aus dem Github");
+            Console.WriteLine("Hello There!");
         }
     }
 }
